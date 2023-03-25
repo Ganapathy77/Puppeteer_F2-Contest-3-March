@@ -1,0 +1,15 @@
+{
+  "name": "Puppeteer_F2-Contest-3-March",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^19.8.0"
+  }
+}
